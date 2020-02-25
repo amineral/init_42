@@ -1,0 +1,1 @@
+cat /etc/passwd | awk -F':' '{print "Username: " $1 " | UID: " $3 " | PATH: " $7}' 

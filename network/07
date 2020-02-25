@@ -1,0 +1,14 @@
+#nslookup slash16.org 8.8.8.8
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	slash16.org
+Address: 54.192.99.175
+Name:	slash16.org
+Address: 54.192.99.177
+Name:	slash16.org
+Address: 54.192.99.66
+Name:	slash16.org
+Address: 54.192.99.24
+

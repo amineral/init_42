@@ -1,0 +1,2 @@
+/etc/resolv.conf
+to see DNS ip use cat /etc/resolv.conf

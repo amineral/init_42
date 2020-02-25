@@ -1,0 +1,2 @@
+# nslookup provides DNS information. DNS ip will be under Server
+nslookup slash16.org | grep 'Server' | awk '{print $2}'

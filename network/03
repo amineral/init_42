@@ -1,0 +1,2 @@
+# en0 and en1 is physical network connections - en0 wired and en1 wireless
+ifconfig en1 | grep 'ether' | awk '{print $2}'

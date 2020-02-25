@@ -1,0 +1,3 @@
+sudo status ssh | grep 'Active'
+
+# ss | grep 'ssh'

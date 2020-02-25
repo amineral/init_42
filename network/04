@@ -1,0 +1,2 @@
+# netstat shows all connections. en0 is default wired connection
+netstat -nr | grep default | grep en0 | awk '{print $2}'

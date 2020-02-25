@@ -1,0 +1,6 @@
+# command jobs shows background processes
+# jobs
+# [1]     Running     process_name
+# kill %1
+
+kill %PID of backgroun process

@@ -1,0 +1,1 @@
+ps -axu | awk '{print "Username: " $1 " | Process: " $11 " | PID: " $2}'
